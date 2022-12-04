@@ -195,16 +195,16 @@ chmod 755 ./jar/paperspigot-1.12.2.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/Trevor1800/MultiCraft-JAR-Conf/master/minecraft/paperspigot/paperspigot-1.8.8.jar.conf
 chown minecraft:minecraft ./jar/paperspigot-1.8.8.jar.conf
 chmod 755 ./jar/paperspigot-1.8.8.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/java8.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/Trevor1800/MultiCraft-JAR-Conf/master/minecraft/custom/java8.jar.conf
 chown minecraft:minecraft ./jar/java8.jar.conf
 chmod 755 ./jar/java8.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/java11.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/Trevor1800/MultiCraft-JAR-Conf/master/minecraft/custom/java11.jar.conf
 chown minecraft:minecraft ./jar/java11.jar.conf
 chmod 755 ./jar/java11.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/java17.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/Trevor1800/MultiCraft-JAR-Conf/master/minecraft/custom/java17.jar.conf
 chown minecraft:minecraft ./jar/java17.jar.conf
 chmod 755 ./jar/java17.jar.conf
-wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/custom/waterfall1.19.jar.conf
+wget -N -P ./jar http://raw.githubusercontent.com/Trevor1800/MultiCraft-JAR-Conf/master/minecraft/custom/waterfall1.19.jar.conf
 chown minecraft:minecraft ./jar/waterfall1.19.jar.conf
 chmod 755 ./jar/waterfall1.19.jar.conf
 rm -r all.sh
